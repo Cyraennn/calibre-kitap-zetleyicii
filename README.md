@@ -1,4 +1,5 @@
 📚 Calibre AI Kitap Okuyucu
+
 Bu program, Calibre kütüphanenizdeki PDF kitapları okuyup yapay zeka (Google Gemini) ile Türkçe özetler ve derinlemesine analizler çıkaran basit bir araçtır.
 
 Bu döküman, bilgisayarınızda hiçbir programlama bilgisi olmasa bile bu aracı adım adım kurup çalıştırmanız için hazırlanmıştır. Sırasıyla ilerleyin, hiçbir adımı atlamayın.
